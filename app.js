@@ -13,5 +13,5 @@ if(studentScore >= 95){
 } else if(studentScore < 75  && studentScore >= 70) {
     console.log('You got E');
 } if(studentScore < 70) {
-    console.log('You faild');
+    console.log('You failed');
 } 
